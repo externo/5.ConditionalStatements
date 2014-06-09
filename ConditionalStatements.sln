@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExchangeIfGreater", "ConditionalStatements\01.ExchangeIfGreater.csproj", "{B38C34CA-7069-4DA2-9895-FF65146AF1BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BonusScore", "BonusScore\02.BonusScore.csproj", "{E4684014-67EB-41D9-8F36-CFB22678C1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CheckForPlayCard", "CheckForPlayCard\03.CheckForPlayCard.csproj", "{EB78071F-D94C-4AE7-9B3F-1B65B0E40BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MultiplicationSign", "MultiplicationSign\04.MultiplicationSign.csproj", "{E72B85E5-7B2F-4FBF-BA1C-483EB4ECA18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BiggestOf3Numbers", "BiggestOf3Numbers\05.BiggestOf3Numbers.csproj", "{87864B89-58BD-4C7B-9A4E-9F3504873005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BiggestOfFiveNumbers", "BiggestOfFiveNumbers\06.BiggestOfFiveNumbers.csproj", "{A24426D2-8405-444B-85FE-BAEC38780AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Sort3NumbersWithNestedIfs", "Sort3NumbersWithNestedIfs\07.Sort3NumbersWithNestedIfs.csproj", "{D703D7F6-CB5F-48C4-84C3-ED27AF1F79E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.DigitAsWord", "DigitAsWord\08.DigitAsWord.csproj", "{10AF9C39-6B12-4F9D-9B84-3C176D99A290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.PlayWithIntDoubleString", "PlayWithIntDoubleString\09.PlayWithIntDoubleString.csproj", "{9C1B29DF-087F-4B6B-804B-AD2197433B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.BeerTime", "BeerTime\10.BeerTime.csproj", "{1F5EDAF5-A9E9-41F0-82F0-A9CF155A0007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.NumberAsWords", "ConsoleApplication1\11.NumberAsWords.csproj", "{468C2F3C-BBB8-4533-89A1-9D28A95238C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ZeroSubset", "ZeroSubset\12.ZeroSubset.csproj", "{3F5DC5FF-10BB-4D3F-98CC-C3C685E59B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38C34CA-7069-4DA2-9895-FF65146AF1BC}.Debug|x86.ActiveCfg = Debug|x86
+		{B38C34CA-7069-4DA2-9895-FF65146AF1BC}.Debug|x86.Build.0 = Debug|x86
+		{B38C34CA-7069-4DA2-9895-FF65146AF1BC}.Release|x86.ActiveCfg = Release|x86
+		{B38C34CA-7069-4DA2-9895-FF65146AF1BC}.Release|x86.Build.0 = Release|x86
+		{E4684014-67EB-41D9-8F36-CFB22678C1D8}.Debug|x86.ActiveCfg = Debug|x86
+		{E4684014-67EB-41D9-8F36-CFB22678C1D8}.Debug|x86.Build.0 = Debug|x86
+		{E4684014-67EB-41D9-8F36-CFB22678C1D8}.Release|x86.ActiveCfg = Release|x86
+		{E4684014-67EB-41D9-8F36-CFB22678C1D8}.Release|x86.Build.0 = Release|x86
+		{EB78071F-D94C-4AE7-9B3F-1B65B0E40BDE}.Debug|x86.ActiveCfg = Debug|x86
+		{EB78071F-D94C-4AE7-9B3F-1B65B0E40BDE}.Debug|x86.Build.0 = Debug|x86
+		{EB78071F-D94C-4AE7-9B3F-1B65B0E40BDE}.Release|x86.ActiveCfg = Release|x86
+		{EB78071F-D94C-4AE7-9B3F-1B65B0E40BDE}.Release|x86.Build.0 = Release|x86
+		{E72B85E5-7B2F-4FBF-BA1C-483EB4ECA18F}.Debug|x86.ActiveCfg = Debug|x86
+		{E72B85E5-7B2F-4FBF-BA1C-483EB4ECA18F}.Debug|x86.Build.0 = Debug|x86
+		{E72B85E5-7B2F-4FBF-BA1C-483EB4ECA18F}.Release|x86.ActiveCfg = Release|x86
+		{E72B85E5-7B2F-4FBF-BA1C-483EB4ECA18F}.Release|x86.Build.0 = Release|x86
+		{87864B89-58BD-4C7B-9A4E-9F3504873005}.Debug|x86.ActiveCfg = Debug|x86
+		{87864B89-58BD-4C7B-9A4E-9F3504873005}.Debug|x86.Build.0 = Debug|x86
+		{87864B89-58BD-4C7B-9A4E-9F3504873005}.Release|x86.ActiveCfg = Release|x86
+		{87864B89-58BD-4C7B-9A4E-9F3504873005}.Release|x86.Build.0 = Release|x86
+		{A24426D2-8405-444B-85FE-BAEC38780AF3}.Debug|x86.ActiveCfg = Debug|x86
+		{A24426D2-8405-444B-85FE-BAEC38780AF3}.Debug|x86.Build.0 = Debug|x86
+		{A24426D2-8405-444B-85FE-BAEC38780AF3}.Release|x86.ActiveCfg = Release|x86
+		{A24426D2-8405-444B-85FE-BAEC38780AF3}.Release|x86.Build.0 = Release|x86
+		{D703D7F6-CB5F-48C4-84C3-ED27AF1F79E0}.Debug|x86.ActiveCfg = Debug|x86
+		{D703D7F6-CB5F-48C4-84C3-ED27AF1F79E0}.Debug|x86.Build.0 = Debug|x86
+		{D703D7F6-CB5F-48C4-84C3-ED27AF1F79E0}.Release|x86.ActiveCfg = Release|x86
+		{D703D7F6-CB5F-48C4-84C3-ED27AF1F79E0}.Release|x86.Build.0 = Release|x86
+		{10AF9C39-6B12-4F9D-9B84-3C176D99A290}.Debug|x86.ActiveCfg = Debug|x86
+		{10AF9C39-6B12-4F9D-9B84-3C176D99A290}.Debug|x86.Build.0 = Debug|x86
+		{10AF9C39-6B12-4F9D-9B84-3C176D99A290}.Release|x86.ActiveCfg = Release|x86
+		{10AF9C39-6B12-4F9D-9B84-3C176D99A290}.Release|x86.Build.0 = Release|x86
+		{9C1B29DF-087F-4B6B-804B-AD2197433B46}.Debug|x86.ActiveCfg = Debug|x86
+		{9C1B29DF-087F-4B6B-804B-AD2197433B46}.Debug|x86.Build.0 = Debug|x86
+		{9C1B29DF-087F-4B6B-804B-AD2197433B46}.Release|x86.ActiveCfg = Release|x86
+		{9C1B29DF-087F-4B6B-804B-AD2197433B46}.Release|x86.Build.0 = Release|x86
+		{1F5EDAF5-A9E9-41F0-82F0-A9CF155A0007}.Debug|x86.ActiveCfg = Debug|x86
+		{1F5EDAF5-A9E9-41F0-82F0-A9CF155A0007}.Debug|x86.Build.0 = Debug|x86
+		{1F5EDAF5-A9E9-41F0-82F0-A9CF155A0007}.Release|x86.ActiveCfg = Release|x86
+		{1F5EDAF5-A9E9-41F0-82F0-A9CF155A0007}.Release|x86.Build.0 = Release|x86
+		{468C2F3C-BBB8-4533-89A1-9D28A95238C6}.Debug|x86.ActiveCfg = Debug|x86
+		{468C2F3C-BBB8-4533-89A1-9D28A95238C6}.Debug|x86.Build.0 = Debug|x86
+		{468C2F3C-BBB8-4533-89A1-9D28A95238C6}.Release|x86.ActiveCfg = Release|x86
+		{468C2F3C-BBB8-4533-89A1-9D28A95238C6}.Release|x86.Build.0 = Release|x86
+		{3F5DC5FF-10BB-4D3F-98CC-C3C685E59B1D}.Debug|x86.ActiveCfg = Debug|x86
+		{3F5DC5FF-10BB-4D3F-98CC-C3C685E59B1D}.Debug|x86.Build.0 = Debug|x86
+		{3F5DC5FF-10BB-4D3F-98CC-C3C685E59B1D}.Release|x86.ActiveCfg = Release|x86
+		{3F5DC5FF-10BB-4D3F-98CC-C3C685E59B1D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
